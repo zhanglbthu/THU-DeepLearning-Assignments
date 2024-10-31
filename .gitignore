@@ -1,0 +1,16 @@
+# ignore all __pycache__ directories
+__pycache__/
+models/
+# ignore all .npz files
+*.npz
+result_long_term_forecast.txt
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.tex
+img/
+results/
+checkpoints/
+test_results/
+

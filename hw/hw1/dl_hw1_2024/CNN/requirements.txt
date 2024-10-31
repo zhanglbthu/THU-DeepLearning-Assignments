@@ -1,0 +1,8 @@
+torch
+torchvision
+tqdm
+numpy
+opencv-python
+sklearn
+genericpath
+medmnist
