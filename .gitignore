@@ -9,6 +9,7 @@ result_long_term_forecast.txt
 *.out
 *.synctex.gz
 *.tex
+*.DS_Store
 img/
 results/
 checkpoints/
