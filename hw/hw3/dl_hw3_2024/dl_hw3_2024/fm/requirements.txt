@@ -1,0 +1,8 @@
+click
+pandas
+statistics
+tensorboard
+tiktoken
+torchinfo
+torch
+tqdm
