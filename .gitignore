@@ -3,6 +3,7 @@ __pycache__/
 models/
 slide/
 video/
+poster/
 # ignore all .npz files
 *.npz
 result_long_term_forecast.txt
